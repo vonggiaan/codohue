@@ -1,0 +1,40 @@
+h1 {
+    color: red;
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+}
+img {
+    padding: 10px;
+}
+h2 {
+    color: palevioletred;
+    background-color: turquoise;
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+}
+ .cangiua {text-align: center;
+}
+p {
+    font-size: 20px;
+}
+.inline {
+    display: inline;
+}
+ol {
+    font-size: 25px;
+}
+ul {
+    font-size: 20px;
+}
+h3 {
+    font-size: 30px;
+    color: pink;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
